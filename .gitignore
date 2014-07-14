@@ -1,0 +1,15 @@
+*.pyc
+
+.DS_Store
+
+data
+
+db
+
+.ipynb_checkpoints
+
+model/_variables.py
+
+model/model.pkl
+
+__admin
